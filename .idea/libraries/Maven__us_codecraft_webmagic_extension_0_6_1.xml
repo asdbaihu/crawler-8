@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: us.codecraft:webmagic-extension:0.6.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-extension/0.6.1/webmagic-extension-0.6.1.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-extension/0.6.1/webmagic-extension-0.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
